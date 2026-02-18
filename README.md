@@ -37,7 +37,8 @@ Demonstrar conhecimento técnico em:
 │
 ├── results/
 │   ├── beans_result.png
-│   ├── person_result
-│   └── models/
+│   ├── person_result.png
+│   ├── car_classificator_result.png
+│   └── best_model_car_classificator.pt
 │
 └── README.md
